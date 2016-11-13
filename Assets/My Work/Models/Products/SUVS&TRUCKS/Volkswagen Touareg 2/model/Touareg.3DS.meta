@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: 137c93787ecad4567a2f60c978c4de58
+timeCreated: 1479016533
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1
+    100002: 10
+    100004: 11
+    100006: 12
+    100008: 13
+    100010: 14
+    100012: 15
+    100014: 16
+    100016: 17
+    100018: 18
+    100020: 19
+    100022: 2
+    100024: 20
+    100026: 21
+    100028: 22
+    100030: 23
+    100032: 24
+    100034: 25
+    100036: 26
+    100038: 27
+    100040: 28
+    100042: 29
+    100044: 3
+    100046: 30
+    100048: 4
+    100050: 4ern obod
+    100052: 4ern obod0
+    100054: 5
+    100056: 6
+    100058: 7
+    100060: 8
+    100062: 9
+    100064: Box02
+    100066: Box04
+    100068: Box05
+    100070: Box06
+    100072: Box09
+    100074: Box10
+    100076: Box11
+    100078: Box12
+    100080: Box1470
+    100082: Box1471
+    100084: Box190
+    100086: Box191
+    100088: Box192
+    100090: Box193
+    100092: Box194
+    100094: Box195
+    100096: Box196
+    100098: Box197
+    100100: Box198
+    100102: Box199
+    100104: Box200
+    100106: Box201
+    100108: Box202
+    100110: Box203
+    100112: Box204
+    100114: Box205
+    100116: Box206
+    100118: Box207
+    100120: Box208
+    100122: Box209
+    100124: Box210
+    100126: Box3
+    100128: Box31
+    100130: Box32
+    100132: 'BVM '
+    100134: BVM  blac0
+    100136: BVM  black
+    100138: BVM  Mirr0
+    100140: BVM  Mirro
+    100142: BVM  Turn0
+    100144: BVM  Turn1
+    100146: BVM  Turn2
+    100148: BVM  Turne
+    100150: BVM 01
+    100152: ChamferBo0
+    100154: ChamferBox
+    100156: chrome fa0
+    100158: chrome far
+    100160: chrome le0
+    100162: chrome le1
+    100164: chrome lei
+    100166: chrome ob0
+    100168: chrome obo
+    100170: Clipper02
+    100172: Clipper05
+    100174: Clipper07
+    100176: Clipper10
+    100178: Clipper11
+    100180: Computer
+    100182: Cylinde9
+    100184: Cylinder01
+    100186: Cylinder04
+    100188: Cylinder07
+    100190: Cylinder09
+    100192: Cylinder10
+    100194: Cylinder21
+    100196: Cylinder60
+    100198: Cylinder62
+    100200: disc brak0
+    100202: disc brak1
+    100204: disc brak2
+    100206: disc brak3
+    100208: disc brak4
+    100210: disc brak5
+    100212: disc brak6
+    100214: disc brak7
+    100216: disc brake
+    100218: diskz
+    100220: dvornik05
+    100222: dvornik2
+    100224: far zad01
+    100226: Group01
+    100228: Group02
+    100230: interior B
+    100232: interior p
+    100234: interior s
+    100236: light bac0
+    100238: light bac1
+    100240: light bac2
+    100242: light bac3
+    100244: light bac4
+    100246: light back
+    100248: Line023
+    100250: Line113
+    100252: Line12
+    100254: Line13
+    100256: Obj_100
+    100258: Obj_102
+    100260: Obj_475
+    100262: Obj_476
+    100264: Obj_477
+    100266: Obj_478
+    100268: Obj_479
+    100270: Obj_480
+    100272: Obj_481
+    100274: Obj_482
+    100276: Obj_483
+    100278: Obj_484
+    100280: Obj_485
+    100282: Obj_486
+    100284: Obj_487
+    100286: Obj_488
+    100288: Obj_489
+    100290: Obj_490
+    100292: Obj_491
+    100294: Obj_492
+    100296: Obj_493
+    100298: Obj_494
+    100300: Obj_495
+    100302: Obj_496
+    100304: Obj_497
+    100306: Obj_498
+    100308: Obj_500
+    100310: Obj_526
+    100312: Obj_527
+    100314: Obj_528
+    100316: Obj_529
+    100318: Obj_530
+    100320: Obj_531
+    100322: Obj_532
+    100324: Obj_533
+    100326: Obj_534
+    100328: Obj_535
+    100330: Obj_536
+    100332: Obj_537
+    100334: Obj_538
+    100336: Obj_539
+    100338: Obj_540
+    100340: Obj_541
+    100342: Obj_542
+    100344: Obj_543
+    100346: Obj_544
+    100348: Obj_545
+    100350: Obj_546
+    100352: Obj_547
+    100354: Obj_548
+    100356: Obj_549
+    100358: Obj_550
+    100360: Obj_608
+    100362: Obj_687
+    100364: Obj_688
+    100366: Obj_689
+    100368: Obj_743
+    100370: Obj_771
+    100372: Obj_772
+    100374: Obj_774
+    100376: Obj_775
+    100378: Obj_776
+    100380: Obj_777
+    100382: Obj_778
+    100384: Object01
+    100386: Object04
+    100388: Object06
+    100390: Object08
+    100392: Object10
+    100394: Object11
+    100396: Object13
+    100398: Object145
+    100400: Object159
+    100402: Object16
+    100404: Object164
+    100406: Object165
+    100408: Object166
+    100410: Object167
+    100412: Object168
+    100414: Object170
+    100416: Object174
+    100418: Object175
+    100420: Object179
+    100422: Object18
+    100424: Object184
+    100426: Object185
+    100428: Object187
+    100430: Object189
+    100432: Object19
+    100434: Object190
+    100436: Object20
+    100438: Object22
+    100440: Object42
+    100442: pannel
+    100444: pe4ka
+    100446: pe4ka01
+    100448: Plane01
+    100450: Plane02
+    100452: Plane03
+    100454: Plane05
+    100456: Plane13
+    100458: Plane14
+    100460: rudder
+    100462: seat fron0
+    100464: seat fron1
+    100466: seat fron2
+    100468: seat front
+    100470: Speed WInd
+    100472: stoiki 4e0
+    100474: stoiki 4e1
+    100476: stoiki 4e2
+    100478: stoiki 4er
+    100480: Text01
+    100482: Text02
+    100484: //RootNode
+    100486: Tube02
+    100488: Tube173
+    100490: Tube174
+    100492: VW
+    100494: window bac
+    100496: window hea
+    100498: window si0
+    100500: window sid
+    400000: 1
+    400002: 10
+    400004: 11
+    400006: 12
+    400008: 13
+    400010: 14
+    400012: 15
+    400014: 16
+    400016: 17
+    400018: 18
+    400020: 19
+    400022: 2
+    400024: 20
+    400026: 21
+    400028: 22
+    400030: 23
+    400032: 24
+    400034: 25
+    400036: 26
+    400038: 27
+    400040: 28
+    400042: 29
+    400044: 3
+    400046: 30
+    400048: 4
+    400050: 4ern obod
+    400052: 4ern obod0
+    400054: 5
+    400056: 6
+    400058: 7
+    400060: 8
+    400062: 9
+    400064: Box02
+    400066: Box04
+    400068: Box05
+    400070: Box06
+    400072: Box09
+    400074: Box10
+    400076: Box11
+    400078: Box12
+    400080: Box1470
+    400082: Box1471
+    400084: Box190
+    400086: Box191
+    400088: Box192
+    400090: Box193
+    400092: Box194
+    400094: Box195
+    400096: Box196
+    400098: Box197
+    400100: Box198
+    400102: Box199
+    400104: Box200
+    400106: Box201
+    400108: Box202
+    400110: Box203
+    400112: Box204
+    400114: Box205
+    400116: Box206
+    400118: Box207
+    400120: Box208
+    400122: Box209
+    400124: Box210
+    400126: Box3
+    400128: Box31
+    400130: Box32
+    400132: 'BVM '
+    400134: BVM  blac0
+    400136: BVM  black
+    400138: BVM  Mirr0
+    400140: BVM  Mirro
+    400142: BVM  Turn0
+    400144: BVM  Turn1
+    400146: BVM  Turn2
+    400148: BVM  Turne
+    400150: BVM 01
+    400152: ChamferBo0
+    400154: ChamferBox
+    400156: chrome fa0
+    400158: chrome far
+    400160: chrome le0
+    400162: chrome le1
+    400164: chrome lei
+    400166: chrome ob0
+    400168: chrome obo
+    400170: Clipper02
+    400172: Clipper05
+    400174: Clipper07
+    400176: Clipper10
+    400178: Clipper11
+    400180: Computer
+    400182: Cylinde9
+    400184: Cylinder01
+    400186: Cylinder04
+    400188: Cylinder07
+    400190: Cylinder09
+    400192: Cylinder10
+    400194: Cylinder21
+    400196: Cylinder60
+    400198: Cylinder62
+    400200: disc brak0
+    400202: disc brak1
+    400204: disc brak2
+    400206: disc brak3
+    400208: disc brak4
+    400210: disc brak5
+    400212: disc brak6
+    400214: disc brak7
+    400216: disc brake
+    400218: diskz
+    400220: dvornik05
+    400222: dvornik2
+    400224: far zad01
+    400226: Group01
+    400228: Group02
+    400230: interior B
+    400232: interior p
+    400234: interior s
+    400236: light bac0
+    400238: light bac1
+    400240: light bac2
+    400242: light bac3
+    400244: light bac4
+    400246: light back
+    400248: Line023
+    400250: Line113
+    400252: Line12
+    400254: Line13
+    400256: Obj_100
+    400258: Obj_102
+    400260: Obj_475
+    400262: Obj_476
+    400264: Obj_477
+    400266: Obj_478
+    400268: Obj_479
+    400270: Obj_480
+    400272: Obj_481
+    400274: Obj_482
+    400276: Obj_483
+    400278: Obj_484
+    400280: Obj_485
+    400282: Obj_486
+    400284: Obj_487
+    400286: Obj_488
+    400288: Obj_489
+    400290: Obj_490
+    400292: Obj_491
+    400294: Obj_492
+    400296: Obj_493
+    400298: Obj_494
+    400300: Obj_495
+    400302: Obj_496
+    400304: Obj_497
+    400306: Obj_498
+    400308: Obj_500
+    400310: Obj_526
+    400312: Obj_527
+    400314: Obj_528
+    400316: Obj_529
+    400318: Obj_530
+    400320: Obj_531
+    400322: Obj_532
+    400324: Obj_533
+    400326: Obj_534
+    400328: Obj_535
+    400330: Obj_536
+    400332: Obj_537
+    400334: Obj_538
+    400336: Obj_539
+    400338: Obj_540
+    400340: Obj_541
+    400342: Obj_542
+    400344: Obj_543
+    400346: Obj_544
+    400348: Obj_545
+    400350: Obj_546
+    400352: Obj_547
+    400354: Obj_548
+    400356: Obj_549
+    400358: Obj_550
+    400360: Obj_608
+    400362: Obj_687
+    400364: Obj_688
+    400366: Obj_689
+    400368: Obj_743
+    400370: Obj_771
+    400372: Obj_772
+    400374: Obj_774
+    400376: Obj_775
+    400378: Obj_776
+    400380: Obj_777
+    400382: Obj_778
+    400384: Object01
+    400386: Object04
+    400388: Object06
+    400390: Object08
+    400392: Object10
+    400394: Object11
+    400396: Object13
+    400398: Object145
+    400400: Object159
+    400402: Object16
+    400404: Object164
+    400406: Object165
+    400408: Object166
+    400410: Object167
+    400412: Object168
+    400414: Object170
+    400416: Object174
+    400418: Object175
+    400420: Object179
+    400422: Object18
+    400424: Object184
+    400426: Object185
+    400428: Object187
+    400430: Object189
+    400432: Object19
+    400434: Object190
+    400436: Object20
+    400438: Object22
+    400440: Object42
+    400442: pannel
+    400444: pe4ka
+    400446: pe4ka01
+    400448: Plane01
+    400450: Plane02
+    400452: Plane03
+    400454: Plane05
+    400456: Plane13
+    400458: Plane14
+    400460: rudder
+    400462: seat fron0
+    400464: seat fron1
+    400466: seat fron2
+    400468: seat front
+    400470: Speed WInd
+    400472: stoiki 4e0
+    400474: stoiki 4e1
+    400476: stoiki 4e2
+    400478: stoiki 4er
+    400480: Text01
+    400482: Text02
+    400484: //RootNode
+    400486: Tube02
+    400488: Tube173
+    400490: Tube174
+    400492: VW
+    400494: window bac
+    400496: window hea
+    400498: window si0
+    400500: window sid
+    2300000: 1
+    2300002: 10
+    2300004: 11
+    2300006: 12
+    2300008: 13
+    2300010: 14
+    2300012: 15
+    2300014: 16
+    2300016: 17
+    2300018: 18
+    2300020: 19
+    2300022: 2
+    2300024: 20
+    2300026: 21
+    2300028: 22
+    2300030: 23
+    2300032: 24
+    2300034: 25
+    2300036: 26
+    2300038: 27
+    2300040: 28
+    2300042: 29
+    2300044: 3
+    2300046: 30
+    2300048: 4
+    2300050: 4ern obod
+    2300052: 4ern obod0
+    2300054: 5
+    2300056: 6
+    2300058: 7
+    2300060: 8
+    2300062: 9
+    2300064: Box02
+    2300066: Box04
+    2300068: Box05
+    2300070: Box06
+    2300072: Box09
+    2300074: Box10
+    2300076: Box11
+    2300078: Box12
+    2300080: Box1470
+    2300082: Box1471
+    2300084: Box190
+    2300086: Box191
+    2300088: Box192
+    2300090: Box193
+    2300092: Box194
+    2300094: Box195
+    2300096: Box196
+    2300098: Box197
+    2300100: Box198
+    2300102: Box199
+    2300104: Box200
+    2300106: Box201
+    2300108: Box202
+    2300110: Box203
+    2300112: Box204
+    2300114: Box205
+    2300116: Box206
+    2300118: Box207
+    2300120: Box208
+    2300122: Box209
+    2300124: Box210
+    2300126: Box3
+    2300128: Box31
+    2300130: Box32
+    2300132: 'BVM '
+    2300134: BVM  blac0
+    2300136: BVM  black
+    2300138: BVM  Mirr0
+    2300140: BVM  Mirro
+    2300142: BVM  Turn0
+    2300144: BVM  Turn1
+    2300146: BVM  Turn2
+    2300148: BVM  Turne
+    2300150: BVM 01
+    2300152: ChamferBo0
+    2300154: ChamferBox
+    2300156: chrome fa0
+    2300158: chrome far
+    2300160: chrome ob0
+    2300162: chrome obo
+    2300164: Clipper02
+    2300166: Clipper05
+    2300168: Clipper07
+    2300170: Clipper10
+    2300172: Clipper11
+    2300174: Computer
+    2300176: Cylinde9
+    2300178: Cylinder01
+    2300180: Cylinder04
+    2300182: Cylinder07
+    2300184: Cylinder09
+    2300186: Cylinder10
+    2300188: Cylinder21
+    2300190: Cylinder60
+    2300192: Cylinder62
+    2300194: disc brak0
+    2300196: disc brak1
+    2300198: disc brak2
+    2300200: disc brak3
+    2300202: disc brak4
+    2300204: disc brak5
+    2300206: disc brak6
+    2300208: disc brak7
+    2300210: disc brake
+    2300212: diskz
+    2300214: dvornik05
+    2300216: dvornik2
+    2300218: far zad01
+    2300220: interior p
+    2300222: interior s
+    2300224: light bac0
+    2300226: light bac1
+    2300228: light bac2
+    2300230: light bac3
+    2300232: light bac4
+    2300234: light back
+    2300236: Line023
+    2300238: Line113
+    2300240: Line12
+    2300242: Line13
+    2300244: Obj_100
+    2300246: Obj_102
+    2300248: Obj_475
+    2300250: Obj_476
+    2300252: Obj_477
+    2300254: Obj_478
+    2300256: Obj_479
+    2300258: Obj_480
+    2300260: Obj_481
+    2300262: Obj_482
+    2300264: Obj_483
+    2300266: Obj_484
+    2300268: Obj_485
+    2300270: Obj_486
+    2300272: Obj_487
+    2300274: Obj_488
+    2300276: Obj_489
+    2300278: Obj_490
+    2300280: Obj_491
+    2300282: Obj_492
+    2300284: Obj_493
+    2300286: Obj_494
+    2300288: Obj_495
+    2300290: Obj_496
+    2300292: Obj_497
+    2300294: Obj_498
+    2300296: Obj_500
+    2300298: Obj_526
+    2300300: Obj_527
+    2300302: Obj_528
+    2300304: Obj_529
+    2300306: Obj_530
+    2300308: Obj_531
+    2300310: Obj_532
+    2300312: Obj_533
+    2300314: Obj_534
+    2300316: Obj_535
+    2300318: Obj_536
+    2300320: Obj_537
+    2300322: Obj_538
+    2300324: Obj_539
+    2300326: Obj_540
+    2300328: Obj_541
+    2300330: Obj_542
+    2300332: Obj_543
+    2300334: Obj_544
+    2300336: Obj_545
+    2300338: Obj_546
+    2300340: Obj_547
+    2300342: Obj_548
+    2300344: Obj_549
+    2300346: Obj_550
+    2300348: Obj_608
+    2300350: Obj_687
+    2300352: Obj_688
+    2300354: Obj_689
+    2300356: Obj_743
+    2300358: Obj_771
+    2300360: Obj_772
+    2300362: Obj_774
+    2300364: Obj_775
+    2300366: Obj_776
+    2300368: Obj_777
+    2300370: Obj_778
+    2300372: Object01
+    2300374: Object04
+    2300376: Object06
+    2300378: Object08
+    2300380: Object10
+    2300382: Object11
+    2300384: Object13
+    2300386: Object145
+    2300388: Object159
+    2300390: Object16
+    2300392: Object164
+    2300394: Object165
+    2300396: Object166
+    2300398: Object167
+    2300400: Object168
+    2300402: Object170
+    2300404: Object174
+    2300406: Object175
+    2300408: Object179
+    2300410: Object18
+    2300412: Object184
+    2300414: Object185
+    2300416: Object187
+    2300418: Object189
+    2300420: Object19
+    2300422: Object190
+    2300424: Object20
+    2300426: Object22
+    2300428: Object42
+    2300430: pannel
+    2300432: Plane01
+    2300434: Plane02
+    2300436: Plane03
+    2300438: Plane05
+    2300440: Plane13
+    2300442: Plane14
+    2300444: rudder
+    2300446: seat fron0
+    2300448: seat fron1
+    2300450: seat fron2
+    2300452: seat front
+    2300454: Speed WInd
+    2300456: stoiki 4e0
+    2300458: stoiki 4e1
+    2300460: stoiki 4e2
+    2300462: stoiki 4er
+    2300464: Text01
+    2300466: Text02
+    2300468: Tube02
+    2300470: Tube173
+    2300472: Tube174
+    2300474: window bac
+    2300476: window hea
+    2300478: window si0
+    2300480: window sid
+    3300000: 1
+    3300002: 10
+    3300004: 11
+    3300006: 12
+    3300008: 13
+    3300010: 14
+    3300012: 15
+    3300014: 16
+    3300016: 17
+    3300018: 18
+    3300020: 19
+    3300022: 2
+    3300024: 20
+    3300026: 21
+    3300028: 22
+    3300030: 23
+    3300032: 24
+    3300034: 25
+    3300036: 26
+    3300038: 27
+    3300040: 28
+    3300042: 29
+    3300044: 3
+    3300046: 30
+    3300048: 4
+    3300050: 4ern obod
+    3300052: 4ern obod0
+    3300054: 5
+    3300056: 6
+    3300058: 7
+    3300060: 8
+    3300062: 9
+    3300064: Box02
+    3300066: Box04
+    3300068: Box05
+    3300070: Box06
+    3300072: Box09
+    3300074: Box10
+    3300076: Box11
+    3300078: Box12
+    3300080: Box1470
+    3300082: Box1471
+    3300084: Box190
+    3300086: Box191
+    3300088: Box192
+    3300090: Box193
+    3300092: Box194
+    3300094: Box195
+    3300096: Box196
+    3300098: Box197
+    3300100: Box198
+    3300102: Box199
+    3300104: Box200
+    3300106: Box201
+    3300108: Box202
+    3300110: Box203
+    3300112: Box204
+    3300114: Box205
+    3300116: Box206
+    3300118: Box207
+    3300120: Box208
+    3300122: Box209
+    3300124: Box210
+    3300126: Box3
+    3300128: Box31
+    3300130: Box32
+    3300132: 'BVM '
+    3300134: BVM  blac0
+    3300136: BVM  black
+    3300138: BVM  Mirr0
+    3300140: BVM  Mirro
+    3300142: BVM  Turn0
+    3300144: BVM  Turn1
+    3300146: BVM  Turn2
+    3300148: BVM  Turne
+    3300150: BVM 01
+    3300152: ChamferBo0
+    3300154: ChamferBox
+    3300156: chrome fa0
+    3300158: chrome far
+    3300160: chrome ob0
+    3300162: chrome obo
+    3300164: Clipper02
+    3300166: Clipper05
+    3300168: Clipper07
+    3300170: Clipper10
+    3300172: Clipper11
+    3300174: Computer
+    3300176: Cylinde9
+    3300178: Cylinder01
+    3300180: Cylinder04
+    3300182: Cylinder07
+    3300184: Cylinder09
+    3300186: Cylinder10
+    3300188: Cylinder21
+    3300190: Cylinder60
+    3300192: Cylinder62
+    3300194: disc brak0
+    3300196: disc brak1
+    3300198: disc brak2
+    3300200: disc brak3
+    3300202: disc brak4
+    3300204: disc brak5
+    3300206: disc brak6
+    3300208: disc brak7
+    3300210: disc brake
+    3300212: diskz
+    3300214: dvornik05
+    3300216: dvornik2
+    3300218: far zad01
+    3300220: interior p
+    3300222: interior s
+    3300224: light bac0
+    3300226: light bac1
+    3300228: light bac2
+    3300230: light bac3
+    3300232: light bac4
+    3300234: light back
+    3300236: Line023
+    3300238: Line113
+    3300240: Line12
+    3300242: Line13
+    3300244: Obj_100
+    3300246: Obj_102
+    3300248: Obj_475
+    3300250: Obj_476
+    3300252: Obj_477
+    3300254: Obj_478
+    3300256: Obj_479
+    3300258: Obj_480
+    3300260: Obj_481
+    3300262: Obj_482
+    3300264: Obj_483
+    3300266: Obj_484
+    3300268: Obj_485
+    3300270: Obj_486
+    3300272: Obj_487
+    3300274: Obj_488
+    3300276: Obj_489
+    3300278: Obj_490
+    3300280: Obj_491
+    3300282: Obj_492
+    3300284: Obj_493
+    3300286: Obj_494
+    3300288: Obj_495
+    3300290: Obj_496
+    3300292: Obj_497
+    3300294: Obj_498
+    3300296: Obj_500
+    3300298: Obj_526
+    3300300: Obj_527
+    3300302: Obj_528
+    3300304: Obj_529
+    3300306: Obj_530
+    3300308: Obj_531
+    3300310: Obj_532
+    3300312: Obj_533
+    3300314: Obj_534
+    3300316: Obj_535
+    3300318: Obj_536
+    3300320: Obj_537
+    3300322: Obj_538
+    3300324: Obj_539
+    3300326: Obj_540
+    3300328: Obj_541
+    3300330: Obj_542
+    3300332: Obj_543
+    3300334: Obj_544
+    3300336: Obj_545
+    3300338: Obj_546
+    3300340: Obj_547
+    3300342: Obj_548
+    3300344: Obj_549
+    3300346: Obj_550
+    3300348: Obj_608
+    3300350: Obj_687
+    3300352: Obj_688
+    3300354: Obj_689
+    3300356: Obj_743
+    3300358: Obj_771
+    3300360: Obj_772
+    3300362: Obj_774
+    3300364: Obj_775
+    3300366: Obj_776
+    3300368: Obj_777
+    3300370: Obj_778
+    3300372: Object01
+    3300374: Object04
+    3300376: Object06
+    3300378: Object08
+    3300380: Object10
+    3300382: Object11
+    3300384: Object13
+    3300386: Object145
+    3300388: Object159
+    3300390: Object16
+    3300392: Object164
+    3300394: Object165
+    3300396: Object166
+    3300398: Object167
+    3300400: Object168
+    3300402: Object170
+    3300404: Object174
+    3300406: Object175
+    3300408: Object179
+    3300410: Object18
+    3300412: Object184
+    3300414: Object185
+    3300416: Object187
+    3300418: Object189
+    3300420: Object19
+    3300422: Object190
+    3300424: Object20
+    3300426: Object22
+    3300428: Object42
+    3300430: pannel
+    3300432: Plane01
+    3300434: Plane02
+    3300436: Plane03
+    3300438: Plane05
+    3300440: Plane13
+    3300442: Plane14
+    3300444: rudder
+    3300446: seat fron0
+    3300448: seat fron1
+    3300450: seat fron2
+    3300452: seat front
+    3300454: Speed WInd
+    3300456: stoiki 4e0
+    3300458: stoiki 4e1
+    3300460: stoiki 4e2
+    3300462: stoiki 4er
+    3300464: Text01
+    3300466: Text02
+    3300468: Tube02
+    3300470: Tube173
+    3300472: Tube174
+    3300474: window bac
+    3300476: window hea
+    3300478: window si0
+    3300480: window sid
+    4300000: light back
+    4300002: stoiki 4er
+    4300004: 4ern obod
+    4300006: chrome obo
+    4300008: Object06
+    4300010: Object08
+    4300012: Plane01
+    4300014: Object11
+    4300016: Object10
+    4300018: Object13
+    4300020: window bac
+    4300022: Object16
+    4300024: Object18
+    4300026: Object42
+    4300028: Object19
+    4300030: Box02
+    4300032: Plane03
+    4300034: Box09
+    4300036: window sid
+    4300038: Box10
+    4300040: Cylinder01
+    4300042: Plane05
+    4300044: Obj_498
+    4300046: Obj_500
+    4300048: Obj_486
+    4300050: Obj_476
+    4300052: Obj_477
+    4300054: Obj_488
+    4300056: Obj_479
+    4300058: Obj_480
+    4300060: Obj_481
+    4300062: Obj_490
+    4300064: Obj_483
+    4300066: Obj_491
+    4300068: Obj_485
+    4300070: Obj_492
+    4300072: Obj_494
+    4300074: Obj_493
+    4300076: Obj_497
+    4300078: Obj_496
+    4300080: Obj_495
+    4300082: Obj_482
+    4300084: Obj_489
+    4300086: Obj_478
+    4300088: Obj_484
+    4300090: Obj_487
+    4300092: Obj_475
+    4300094: Obj_526
+    4300096: Obj_527
+    4300098: Obj_528
+    4300100: Obj_529
+    4300102: Obj_530
+    4300104: Obj_531
+    4300106: Obj_532
+    4300108: Obj_533
+    4300110: Obj_534
+    4300112: Obj_535
+    4300114: Obj_536
+    4300116: Obj_537
+    4300118: Obj_538
+    4300120: Obj_539
+    4300122: Obj_540
+    4300124: Obj_541
+    4300126: Obj_542
+    4300128: Obj_543
+    4300130: Obj_544
+    4300132: Obj_545
+    4300134: Obj_546
+    4300136: Obj_547
+    4300138: Obj_548
+    4300140: Obj_549
+    4300142: Obj_550
+    4300144: Object145
+    4300146: Object20
+    4300148: light bac0
+    4300150: light bac1
+    4300152: light bac2
+    4300154: light bac3
+    4300156: light bac4
+    4300158: Cylinder09
+    4300160: Cylinder10
+    4300162: chrome far
+    4300164: Object159
+    4300166: Box11
+    4300168: chrome fa0
+    4300170: Object164
+    4300172: Object165
+    4300174: window si0
+    4300176: chrome ob0
+    4300178: Object166
+    4300180: 4ern obod0
+    4300182: stoiki 4e0
+    4300184: Box12
+    4300186: Object168
+    4300188: Object170
+    4300190: Object174
+    4300192: Object175
+    4300194: Object22
+    4300196: Plane13
+    4300198: Object179
+    4300200: Object167
+    4300202: Text01
+    4300204: Text02
+    4300206: Obj_100
+    4300208: Obj_102
+    4300210: far zad01
+    4300212: Plane02
+    4300214: stoiki 4e1
+    4300216: Object04
+    4300218: Object184
+    4300220: stoiki 4e2
+    4300222: dvornik2
+    4300224: dvornik05
+    4300226: Plane14
+    4300228: Box3
+    4300230: Cylinde9
+    4300232: interior s
+    4300234: Tube02
+    4300236: Line113
+    4300238: Box05
+    4300240: Box31
+    4300242: Box32
+    4300244: Box04
+    4300246: Cylinder04
+    4300248: Cylinder62
+    4300250: Box190
+    4300252: Box191
+    4300254: Box192
+    4300256: Box193
+    4300258: Box194
+    4300260: Box195
+    4300262: Box196
+    4300264: Box197
+    4300266: Box198
+    4300268: Line12
+    4300270: Box199
+    4300272: Box200
+    4300274: Box201
+    4300276: Box202
+    4300278: Box203
+    4300280: Box204
+    4300282: Line13
+    4300284: Box205
+    4300286: Box206
+    4300288: Box207
+    4300290: Box208
+    4300292: Box209
+    4300294: Box210
+    4300296: Box06
+    4300298: rudder
+    4300300: interior p
+    4300302: Line023
+    4300304: Tube173
+    4300306: Tube174
+    4300308: Box1470
+    4300310: Cylinder21
+    4300312: seat front
+    4300314: pannel
+    4300316: Speed WInd
+    4300318: Computer
+    4300320: Object185
+    4300322: Box1471
+    4300324: window hea
+    4300326: Cylinder07
+    4300328: Cylinder60
+    4300330: ChamferBox
+    4300332: ChamferBo0
+    4300334: BVM  Turne
+    4300336: BVM  black
+    4300338: BVM  Mirro
+    4300340: BVM  Turn0
+    4300342: 'BVM '
+    4300344: BVM 01
+    4300346: BVM  blac0
+    4300348: BVM  Mirr0
+    4300350: BVM  Turn1
+    4300352: BVM  Turn2
+    4300354: 7
+    4300356: 15
+    4300358: 13
+    4300360: 6
+    4300362: 8
+    4300364: 14
+    4300366: 10
+    4300368: 11
+    4300370: 5
+    4300372: 12
+    4300374: 1
+    4300376: 9
+    4300378: 3
+    4300380: 2
+    4300382: 4
+    4300384: 16
+    4300386: 17
+    4300388: 18
+    4300390: 19
+    4300392: 20
+    4300394: 21
+    4300396: 22
+    4300398: 23
+    4300400: 24
+    4300402: 25
+    4300404: 26
+    4300406: 27
+    4300408: 28
+    4300410: 29
+    4300412: 30
+    4300414: seat fron0
+    4300416: seat fron1
+    4300418: seat fron2
+    4300420: Object187
+    4300422: Obj_743
+    4300424: disc brake
+    4300426: disc brak0
+    4300428: Clipper07
+    4300430: diskz
+    4300432: Obj_608
+    4300434: Clipper02
+    4300436: disc brak1
+    4300438: Object01
+    4300440: Clipper05
+    4300442: disc brak2
+    4300444: disc brak3
+    4300446: Obj_687
+    4300448: Obj_688
+    4300450: Obj_689
+    4300452: Obj_771
+    4300454: Obj_772
+    4300456: Object189
+    4300458: Clipper10
+    4300460: disc brak4
+    4300462: disc brak5
+    4300464: Obj_774
+    4300466: Obj_778
+    4300468: Clipper11
+    4300470: disc brak6
+    4300472: disc brak7
+    4300474: Obj_775
+    4300476: Obj_776
+    4300478: Object190
+    4300480: Obj_777
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

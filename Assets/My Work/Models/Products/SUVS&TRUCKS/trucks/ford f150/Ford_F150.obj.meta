@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 74803cceacb4a446e821497fa3cc875b
+timeCreated: 1479022814
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back_21
+    100002: f150-black_28
+    100004: f150-flatb_25
+    100006: f150-insid_23
+    100008: f150-main1_27
+    100010: f150-mainb_22
+    100012: f150-plast_24
+    100014: f150-rubbe_26
+    100016: f150_16
+    100018: //RootNode
+    100020: Ford_F150_29
+    100022: glass_19
+    100024: halo_17
+    100026: logo_18
+    100028: RAD_HL-chr_6
+    100030: RAD_HL-ins_0
+    100032: RAD_HL-log_5
+    100034: RAD_HL_4
+    100036: RAD_HR-chr_9
+    100038: RAD_HR-ins_1
+    100040: RAD_HR-log_8
+    100042: RAD_HR_7
+    100044: RAD_VL-chr_6
+    100046: RAD_VL-ins_0
+    100048: RAD_VL-log_5
+    100050: RAD_VL_4
+    100052: RAD_VR-chr_9
+    100054: RAD_VR-ins_1
+    100056: RAD_VR-log_8
+    100058: RAD_VR_7
+    100060: top_20
+    400000: back_21
+    400002: f150-black_28
+    400004: f150-flatb_25
+    400006: f150-insid_23
+    400008: f150-main1_27
+    400010: f150-mainb_22
+    400012: f150-plast_24
+    400014: f150-rubbe_26
+    400016: f150_16
+    400018: //RootNode
+    400020: Ford_F150_29
+    400022: glass_19
+    400024: halo_17
+    400026: logo_18
+    400028: RAD_HL-chr_6
+    400030: RAD_HL-ins_0
+    400032: RAD_HL-log_5
+    400034: RAD_HL_4
+    400036: RAD_HR-chr_9
+    400038: RAD_HR-ins_1
+    400040: RAD_HR-log_8
+    400042: RAD_HR_7
+    400044: RAD_VL-chr_6
+    400046: RAD_VL-ins_0
+    400048: RAD_VL-log_5
+    400050: RAD_VL_4
+    400052: RAD_VR-chr_9
+    400054: RAD_VR-ins_1
+    400056: RAD_VR-log_8
+    400058: RAD_VR_7
+    400060: top_20
+    2300000: back_21
+    2300002: f150-black_28
+    2300004: f150-flatb_25
+    2300006: f150-insid_23
+    2300008: f150-main1_27
+    2300010: f150-mainb_22
+    2300012: f150-plast_24
+    2300014: f150-rubbe_26
+    2300016: f150_16
+    2300018: Ford_F150_29
+    2300020: glass_19
+    2300022: halo_17
+    2300024: logo_18
+    2300026: RAD_HL-chr_6
+    2300028: RAD_HL-ins_0
+    2300030: RAD_HL-log_5
+    2300032: RAD_HL_4
+    2300034: RAD_HR-chr_9
+    2300036: RAD_HR-ins_1
+    2300038: RAD_HR-log_8
+    2300040: RAD_HR_7
+    2300042: RAD_VL-chr_6
+    2300044: RAD_VL-ins_0
+    2300046: RAD_VL-log_5
+    2300048: RAD_VL_4
+    2300050: RAD_VR-chr_9
+    2300052: RAD_VR-ins_1
+    2300054: RAD_VR-log_8
+    2300056: RAD_VR_7
+    2300058: top_20
+    3300000: back_21
+    3300002: f150-black_28
+    3300004: f150-flatb_25
+    3300006: f150-insid_23
+    3300008: f150-main1_27
+    3300010: f150-mainb_22
+    3300012: f150-plast_24
+    3300014: f150-rubbe_26
+    3300016: f150_16
+    3300018: Ford_F150_29
+    3300020: glass_19
+    3300022: halo_17
+    3300024: logo_18
+    3300026: RAD_HL-chr_6
+    3300028: RAD_HL-ins_0
+    3300030: RAD_HL-log_5
+    3300032: RAD_HL_4
+    3300034: RAD_HR-chr_9
+    3300036: RAD_HR-ins_1
+    3300038: RAD_HR-log_8
+    3300040: RAD_HR_7
+    3300042: RAD_VL-chr_6
+    3300044: RAD_VL-ins_0
+    3300046: RAD_VL-log_5
+    3300048: RAD_VL_4
+    3300050: RAD_VR-chr_9
+    3300052: RAD_VR-ins_1
+    3300054: RAD_VR-log_8
+    3300056: RAD_VR_7
+    3300058: top_20
+    4300000: back_21
+    4300002: f150-black_28
+    4300004: f150-flatb_25
+    4300006: f150-insid_23
+    4300008: f150-main1_27
+    4300010: f150-mainb_22
+    4300012: f150-plast_24
+    4300014: f150-rubbe_26
+    4300016: f150_16
+    4300018: Ford_F150_29
+    4300020: glass_19
+    4300022: halo_17
+    4300024: logo_18
+    4300026: RAD_HL-chr_6
+    4300028: RAD_HL-ins_0
+    4300030: RAD_HL-log_5
+    4300032: RAD_HL_4
+    4300034: RAD_HR-chr_9
+    4300036: RAD_HR-ins_1
+    4300038: RAD_HR-log_8
+    4300040: RAD_HR_7
+    4300042: RAD_VL-chr_6
+    4300044: RAD_VL-ins_0
+    4300046: RAD_VL-log_5
+    4300048: RAD_VL_4
+    4300050: RAD_VR-chr_9
+    4300052: RAD_VR-ins_1
+    4300054: RAD_VR-log_8
+    4300056: RAD_VR_7
+    4300058: top_20
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

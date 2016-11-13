@@ -22,7 +22,7 @@ public class Merchandise : MonoBehaviour {
 		this.price = price;
 		this.brand = brand;
 		this.measurement = new Measurement(height,width,length);
-	}
+    }
 
 	public string getCategory(){
 		return category;

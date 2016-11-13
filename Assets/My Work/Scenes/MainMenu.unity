@@ -474,6 +474,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e36d02e19ce5f74fbcd6b1d88fefe80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  uistate: 0
+  MainMenuCanvas: {fileID: 1358139749}
+  IntermediateCanvas: {fileID: 1721618201}
+  SettingsCanvas: {fileID: 0}
+  CartCanvas: {fileID: 0}
 --- !u!4 &202434553
 Transform:
   m_ObjectHideFlags: 0
@@ -615,6 +620,7 @@ GameObject:
   - component: {fileID: 363426062}
   - component: {fileID: 363426061}
   - component: {fileID: 363426060}
+  - component: {fileID: 363426064}
   m_Layer: 0
   m_Name: Manager
   m_TagString: Untagged
@@ -641,13 +647,20 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 363426058}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3f2795b3e072e1745a4f8c670d64284f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   RecognizerStart: 0
-  KeywordsAndResponses: []
+  KeywordsAndResponses:
+  - Keyword: Begin
+    KeyCode: 0
+    Response:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
 --- !u!114 &363426061
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -690,6 +703,18 @@ MonoBehaviour:
   LerpStabilizationPlanePowerCloser: 4
   LerpStabilizationPlanePowerFarther: 7
   UseBuiltInGazeStabilization: 1
+--- !u!114 &363426064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 363426058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94c1fd2ccb6e3e5449429462b44a8229, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EditorSelectKey: 32
 --- !u!1 &374610885
 GameObject:
   m_ObjectHideFlags: 0
@@ -1191,7 +1216,7 @@ Camera:
     height: 1
   near clip plane: 0.85
   far clip plane: 1000
-  field of view: 16
+  field of view: 50
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -1855,7 +1880,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1173627939}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 202434552}
+        m_MethodName: m_ShopClicked
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1173627939
@@ -2481,7 +2517,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1358139747
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2927,7 +2963,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1429481260}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 202434552}
+        m_MethodName: m_FurnitureClicked
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1429481260
@@ -3121,7 +3168,15 @@ Prefab:
     - target: {fileID: 11492742, guid: 55f259d5b573dd14395cb4cb46b51ac8, type: 2}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 202434551}
+      objectReference: {fileID: 202434552}
+    - target: {fileID: 11492742, guid: 55f259d5b573dd14395cb4cb46b51ac8, type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: m_BackClicked
+      objectReference: {fileID: 0}
+    - target: {fileID: 11492742, guid: 55f259d5b573dd14395cb4cb46b51ac8, type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 55f259d5b573dd14395cb4cb46b51ac8, type: 2}
   m_IsPrefabParent: 0
@@ -3744,7 +3799,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1553696730}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 202434552}
+        m_MethodName: m_ElectronicsClicked
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1553696730
@@ -4166,7 +4232,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1721618199
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4328,7 +4394,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1751778885}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 202434552}
+        m_MethodName: m_CarsClicked
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1751778885

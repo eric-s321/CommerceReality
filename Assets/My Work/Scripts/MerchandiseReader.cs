@@ -13,7 +13,7 @@ public class MerchandiseReader : MonoBehaviour {
 
 	/* FILE TO READ FROM IS HARD CODED INTO HERE -- MUST MAKE CHANGES IN CODE OR PASS AS PARAMETER IN FUTURE */
 	public List<Merchandise> readAllInputData(){
-		var reader = new System.IO.StreamReader(System.IO.File.OpenRead(@"/Users/ericscagnelli/Desktop/MerchandiseInfo - Sheet1.csv"));
+		var reader = new System.IO.StreamReader(System.IO.File.OpenRead("../Commerce Reality/Assets/My Work/DataFiles/MerchandiseInfo - Sheet1.csv"));
 		string line = reader.ReadLine();  //Skip first line in file (headers)
 		while (!reader.EndOfStream){
 			line = reader.ReadLine();
@@ -36,5 +36,16 @@ public class MerchandiseReader : MonoBehaviour {
 			}
 		}
 		return merchList;
+	}
+
+
+	/* returns null if merchandise not found */
+	public Merchandise getMerchandiseByName(string name){
+		for (int i = 0; i < merchList.Count; i++) {
+			if (merchList [i].getName ().Equals (name)) {
+				return merchList [i];
+			}
+		}
+		return null;
 	}
 }

@@ -1,0 +1,232 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+newmtl avalanche-rubber
+Kd 0.156863 0.156863 0.156863
+Ka 0.356863 0.356863 0.356863
+Ks 0.431373 0.431373 0.431373
+Ke 0 0 0
+d 1
+Ns 8
+illum 2
+
+newmtl avalanche-fl-bul
+Kd 0.784314 0.784314 0.784314
+Ka 0.2 0.2 0.2
+Ks 1 1 1
+Ke 0 0 0
+d 0.52
+illum 1
+
+newmtl avalanche-fl-mir
+Kd 0.321569 0.321569 0.321569
+Ka 0.521569 0.521569 0.521569
+Ks 0.831373 0.831373 0.831373
+Ke 0 0 0
+d 1
+Ns 28
+illum 2
+
+newmtl avalanche-fl-fra
+Kd 0.435294 0.462745 0.47451
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl avalanche-fl-gla
+Kd 0.666667 0.678431 0.741176
+Ka 0.2 0.2 0.2
+Ks 0.964706 0.964706 0.972549
+Ke 0 0 0
+d 0.11
+Ns 18
+illum 2
+
+newmtl avalanche-mirror
+Kd 0.784314 0.784314 0.784314
+Ka 0.2 0.2 0.2
+Ks 0.831373 0.831373 0.831373
+Ke 0 0 0
+d 1
+Ns 28
+illum 2
+
+newmtl avalanche-bronze
+Kd 0.435294 0.305882 0.211765
+Ka 0.2 0.2 0.2
+Ks 0.384314 0.321569 0.278431
+Ke 0 0 0
+d 1
+Ns 25
+illum 2
+
+newmtl avalanche-chrome
+Kd 0.0705882 0.0705882 0.0705882
+Ka 0.270588 0.270588 0.270588
+Ks 0.654902 0.654902 0.654902
+Ke 0 0 0
+d 1
+Ns 12
+illum 2
+
+newmtl exp-shields-dark
+Kd 0.247059 0.247059 0.247059
+Ka 0.2 0.2 0.2
+Ks 0.784314 0.784314 0.784314
+Ke 0 0 0
+d 1
+Ns 25
+illum 2
+
+newmtl avalanche-black
+Kd 0 0 0
+Ka 0.2 0.2 0.2
+Ks 0.784314 0.784314 0.784314
+Ke 0 0 0
+d 1
+Ns 28
+illum 2
+
+newmtl avalanche-glass
+Kd 0.372549 0.380392 0.384314
+Ka 0.2 0.2 0.2
+Ks 0.8 0.8 0.8
+Ke 0 0 0
+d 0.4
+Ns 21
+illum 2
+
+newmtl avalanche-grid
+Kd 0.537255 0.537255 0.537255
+Ka 0.2 0.2 0.2
+Ks 0 0 0
+Ke 0 0 0
+d 1
+illum 1
+map_d bumpbee.bmp
+
+newmtl black
+Kd 0.0196078 0.0196078 0.0196078
+Ka 0.219608 0.219608 0.219608
+Ks 0 0 0
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl avalanche-shield
+Kd 0.235294 0.235294 0.235294
+Ka 0.2 0.2 0.2
+Ks 0.784314 0.784314 0.784314
+Ke 0 0 0
+d 1
+Ns 33
+illum 2
+
+newmtl avalanche-main_b
+Kd 0.411765 0 0
+Ka 0.611765 0.2 0.2
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 19
+illum 2
+
+newmtl avalanche1
+Kd 0.411765 0 0
+Ka 0.611765 0.2 0.2
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 19
+illum 2
+bump logo.bmp
+map_bump logo.bmp
+
+newmtl avalanche-inside
+Kd 0.784314 0.72549 0.686275
+Ka 0.2 0.2 0.2
+Ks 0.67451 0.67451 0.67451
+Ke 0 0 0
+d 1
+Ns 23
+illum 2
+
+newmtl avalanche-wheel-
+Kd 0.490196 0.490196 0.490196
+Ka 0.2 0.2 0.2
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 4
+illum 2
+
+newmtl pacifica-wheel-i
+Kd 0.372549 0.372549 0.372549
+Ka 0.2 0.2 0.2
+Ks 0.0470588 0.0470588 0.0470588
+Ke 0 0 0
+d 1
+Ns 28
+illum 2
+
+newmtl avalanche-antisl
+Kd 0.784314 0.784314 0.784314
+Ka 0.2 0.2 0.2
+Ks 0.235294 0.235294 0.235294
+Ke 0 0 0
+d 1
+Ns 28
+illum 2
+map_Kd rr.bmp
+
+newmtl avalanche-3stop
+Kd 0.784314 0.117647 0.0313726
+Ka 0.2 0.2 0.2
+Ks 0.439216 0.439216 0.439216
+Ke 0 0 0
+d 1
+Ns 28
+illum 2
+map_Kd 3stop.bmp
+
+newmtl avalanche-red
+Kd 0.784314 0.196078 0.0392157
+Ka 0.2 0.2 0.2
+Ks 0.682353 0.682353 0.682353
+Ke 0 0 0
+d 1
+Ns 28
+illum 2
+map_Kd red.bmp
+
+newmtl avalanche-alu
+Kd 0.654902 0.654902 0.654902
+Ka 0.2 0.2 0.2
+Ks 0.886275 0.886275 0.886275
+Ke 0 0 0
+d 1
+Ns 39
+illum 2
+
+newmtl avalanche-tire
+Kd 0.184314 0.184314 0.184314
+Ka 0.2 0.2 0.2
+Ks 0.862745 0.941176 1
+Ke 0 0 0
+d 1
+Ns 3
+illum 2
+
+newmtl avalanche-tire-b
+Kd 0.184314 0.184314 0.184314
+Ka 0.2 0.2 0.2
+Ks 0.862745 0.941176 1
+Ke 0 0 0
+d 1
+Ns 3
+illum 2
+bump tire.bmp
+map_bump tire.bmp
+

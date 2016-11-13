@@ -71,12 +71,15 @@
      <None Include="Assets\HoloToolkit\SpatialUnderstanding\Materials\SpatialUnderstandingSurface.shader" />
      <None Include="Assets\Gamestrap UI\Fonts\Bebas\Flat-it License.txt" />
      <None Include="Assets\HoloToolkit\Utilities\Shaders\VertexLitConfigurable.cginc" />
+     <None Include="Assets\My Work\Models\Products\SUVS&amp;TRUCKS\Volkswagen Touareg 2\read me.txt" />
      <None Include="Assets\My Work\Models\Products\Cars\Lamborghini Murcielago LP640\CREDITS.txt" />
      <None Include="Assets\HoloToolkit\Utilities\Shaders\UnlitConfigurableTransparent.shader" />
+     <None Include="Assets\My Work\Models\Products\Cars\Ford+F250\archibase.net.txt" />
      <None Include="Assets\HoloToolkit\Utilities\Shaders\LambertianConfigurable.cginc" />
      <None Include="Assets\HoloToolkit\Utilities\Shaders\VertexLitConfigurable.shader" />
      <None Include="Assets\Gamestrap UI\Fonts\Lato\SIL Open Font License.txt" />
      <None Include="Assets\HoloToolkit\Utilities\Shaders\StandardFast.shader" />
+     <None Include="Assets\My Work\Models\Products\Cars\Ssangyong+Rexton\archibase.net.txt" />
      <None Include="Assets\HoloToolkit\Utilities\Shaders\LambertianConfigurable.shader" />
      <None Include="Assets\HoloToolkit\Utilities\Shaders\BlinnPhongConfigurableTransparent.shader" />
      <None Include="Assets\HoloToolkit\SpatialMapping\Shaders\Wireframe.shader" />
