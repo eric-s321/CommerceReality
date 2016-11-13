@@ -1,0 +1,57 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 18.07.2008 15:18:36
+
+newmtl 01___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\0000.BMP
+	map_Kd maps\0000.BMP
+	map_refl maps\Map__5_Raytrace.tga
+
+newmtl glass
+	Ns 49.0000
+	Ni 1.5000
+	d 0.2500
+	Tr 0.2500
+	Tf 0.2500 0.2500 0.2500 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.1647 0.1882 0.1961
+	Ks 0.8460 0.8460 0.8460
+	Ke 0.0000 0.0000 0.0000
+	map_refl maps\Map__12_Raytrace.tga
+
+newmtl 02___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka maps\0001.BMP
+	map_Kd maps\0001.BMP
+	map_refl maps\Map__6_Raytrace.tga
+
+newmtl relfection_Material
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 1.0000 1.0000 1.0000

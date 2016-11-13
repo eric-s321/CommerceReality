@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 4c71a3609f6c14366868ffb8b432314d
+timeCreated: 1478985253
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base
+    100002: BLightL
+    100004: BLightR
+    100006: Body
+    100008: BrakeFL
+    100010: BrakeFR
+    100012: BrakeRL
+    100014: BrakeRR
+    100016: Driver
+    100018: HLightL
+    100020: HLightLG
+    100022: HLightR
+    100024: HLightRG
+    100026: Hood
+    100028: Hood_Carbon
+    100030: Interior
+    100032: License
+    100034: MirrorL
+    100036: MirrorR
+    100038: //RootNode
+    100040: TireFL
+    100042: TireFR
+    100044: TireRL
+    100046: TireRR
+    400000: Base
+    400002: BLightL
+    400004: BLightR
+    400006: Body
+    400008: BrakeFL
+    400010: BrakeFR
+    400012: BrakeRL
+    400014: BrakeRR
+    400016: Driver
+    400018: HLightL
+    400020: HLightLG
+    400022: HLightR
+    400024: HLightRG
+    400026: Hood
+    400028: Hood_Carbon
+    400030: Interior
+    400032: License
+    400034: MirrorL
+    400036: MirrorR
+    400038: //RootNode
+    400040: TireFL
+    400042: TireFR
+    400044: TireRL
+    400046: TireRR
+    2300000: Base
+    2300002: BLightL
+    2300004: BLightR
+    2300006: Body
+    2300008: BrakeFL
+    2300010: BrakeFR
+    2300012: BrakeRL
+    2300014: BrakeRR
+    2300016: Driver
+    2300018: HLightL
+    2300020: HLightLG
+    2300022: HLightR
+    2300024: HLightRG
+    2300026: Hood
+    2300028: Hood_Carbon
+    2300030: Interior
+    2300032: License
+    2300034: MirrorL
+    2300036: MirrorR
+    2300038: TireFL
+    2300040: TireFR
+    2300042: TireRL
+    2300044: TireRR
+    3300000: Base
+    3300002: BLightL
+    3300004: BLightR
+    3300006: Body
+    3300008: BrakeFL
+    3300010: BrakeFR
+    3300012: BrakeRL
+    3300014: BrakeRR
+    3300016: Driver
+    3300018: HLightL
+    3300020: HLightLG
+    3300022: HLightR
+    3300024: HLightRG
+    3300026: Hood
+    3300028: Hood_Carbon
+    3300030: Interior
+    3300032: License
+    3300034: MirrorL
+    3300036: MirrorR
+    3300038: TireFL
+    3300040: TireFR
+    3300042: TireRL
+    3300044: TireRR
+    4300000: Base
+    4300002: BLightL
+    4300004: BLightR
+    4300006: Body
+    4300008: BrakeFL
+    4300010: BrakeFR
+    4300012: BrakeRL
+    4300014: BrakeRR
+    4300016: Driver
+    4300018: HLightL
+    4300020: HLightLG
+    4300022: HLightR
+    4300024: HLightRG
+    4300026: Hood
+    4300028: Hood_Carbon
+    4300030: Interior
+    4300032: License
+    4300034: MirrorL
+    4300036: MirrorR
+    4300038: TireFL
+    4300040: TireFR
+    4300042: TireRL
+    4300044: TireRR
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
