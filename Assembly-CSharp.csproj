@@ -216,7 +216,11 @@
      <Compile Include="Assets\HoloToolkit\Utilities\Tests\Scripts\PlaneTargetGroup.cs" />
      <Compile Include="Assets\HoloToolkit\Utilities\Tests\Scripts\PlaneTargetGroupPicker.cs" />
      <Compile Include="Assets\HoloToolkit\Utilities\Tests\TextToSpeechManagerTest.cs" />
-     <Compile Include="Assets\My Work\Scripts\merchandise.cs" />
+     <Compile Include="Assets\My Work\Scripts\Managing Scripts\MainGameController.cs" />
+     <Compile Include="Assets\My Work\Scripts\Measurement.cs" />
+     <Compile Include="Assets\My Work\Scripts\Merchandise.cs" />
+     <Compile Include="Assets\My Work\Scripts\MerchandiseReader.cs" />
+     <Compile Include="Assets\My Work\Scripts\ReadTester.cs" />
      <None Include="Assets\My Work\Models\Products\Cars\California\CREDITS.txt" />
      <None Include="Assets\Gamestrap UI\Fonts\ubuntu\UBUNTU FONT LICENCE.txt" />
      <None Include="Assets\HoloToolkit\Utilities\Shaders\UnlitConfigurable.shader" />
