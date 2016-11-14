@@ -1,0 +1,48 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.187496374)
+
+newmtl chrome08 210
+Kd 0.00392157 0.00392157 0.00392157
+Ka 0 0 0
+Ks 0.690196 0.690196 0.690196
+Ke 0 0 0
+d 1
+Ns 100
+illum 2
+
+newmtl glass li
+Kd 0 0 0
+Ka 0 0 0
+Ks 1 1 1
+Ke 0 0 0
+d 0.04
+Ns 100
+illum 2
+
+newmtl JoinedMaterial_#5
+Kd 0.737255 0.678431 0.501961
+Ka 0 0 0
+Ks 0.156863 0.156863 0.156863
+Ke 0 0 0
+d 1
+Ns 100
+illum 2
+
+newmtl fasad
+Kd 0 0 0
+Ka 0 0 0
+Ks 0.235294 0.235294 0.235294
+Ke 0 0 0
+d 1
+Ns 96
+illum 2
+
+newmtl 02 - Default
+Kd 0.588235 0.588235 0.588235
+Ka 0.588235 0.588235 0.588235
+Ks 0.898039 0.898039 0.898039
+Ke 0 0 0
+d 1
+illum 1
+map_Kd 0_BB9_10.GIF
+

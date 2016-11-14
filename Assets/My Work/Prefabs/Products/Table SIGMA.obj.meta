@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: f30ee656e6cd24d4aa0c954e2a81bee5
+timeCreated: 1479046706
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arc01_3
+    100002: Arc01_inst_2_3
+    100004: Arc01_inst_3_3
+    100006: Arc01_inst_4_3
+    100008: Arc03_4
+    100010: Arc03_inst_2_4
+    100012: Arc07_5
+    100014: Box01_8
+    100016: Box02_1
+    100018: Line01_6
+    100020: Line01_inst_2_6
+    100022: Line03_9
+    100024: Line04_10
+    100026: Line05_0
+    100028: Line05_inst_2_0
+    100030: Line05_inst_3_0
+    100032: Line05_inst_4_0
+    100034: //RootNode
+    100036: WRectangl0_7
+    100038: WRectangle_2
+    400000: Arc01_3
+    400002: Arc01_inst_2_3
+    400004: Arc01_inst_3_3
+    400006: Arc01_inst_4_3
+    400008: Arc03_4
+    400010: Arc03_inst_2_4
+    400012: Arc07_5
+    400014: Box01_8
+    400016: Box02_1
+    400018: Line01_6
+    400020: Line01_inst_2_6
+    400022: Line03_9
+    400024: Line04_10
+    400026: Line05_0
+    400028: Line05_inst_2_0
+    400030: Line05_inst_3_0
+    400032: Line05_inst_4_0
+    400034: //RootNode
+    400036: WRectangl0_7
+    400038: WRectangle_2
+    2300000: Arc01_3
+    2300002: Arc01_inst_2_3
+    2300004: Arc01_inst_3_3
+    2300006: Arc01_inst_4_3
+    2300008: Arc03_4
+    2300010: Arc03_inst_2_4
+    2300012: Arc07_5
+    2300014: Box01_8
+    2300016: Box02_1
+    2300018: Line01_6
+    2300020: Line01_inst_2_6
+    2300022: Line03_9
+    2300024: Line04_10
+    2300026: Line05_0
+    2300028: Line05_inst_2_0
+    2300030: Line05_inst_3_0
+    2300032: Line05_inst_4_0
+    2300034: WRectangl0_7
+    2300036: WRectangle_2
+    3300000: Arc01_3
+    3300002: Arc01_inst_2_3
+    3300004: Arc01_inst_3_3
+    3300006: Arc01_inst_4_3
+    3300008: Arc03_4
+    3300010: Arc03_inst_2_4
+    3300012: Arc07_5
+    3300014: Box01_8
+    3300016: Box02_1
+    3300018: Line01_6
+    3300020: Line01_inst_2_6
+    3300022: Line03_9
+    3300024: Line04_10
+    3300026: Line05_0
+    3300028: Line05_inst_2_0
+    3300030: Line05_inst_3_0
+    3300032: Line05_inst_4_0
+    3300034: WRectangl0_7
+    3300036: WRectangle_2
+    4300000: Arc01_3
+    4300002: Arc01_inst_2_3
+    4300004: Arc01_inst_3_3
+    4300006: Arc01_inst_4_3
+    4300008: Arc03_4
+    4300010: Arc03_inst_2_4
+    4300012: Arc07_5
+    4300014: Box01_8
+    4300016: Box02_1
+    4300018: Line01_6
+    4300020: Line01_inst_2_6
+    4300022: Line03_9
+    4300024: Line04_10
+    4300026: Line05_0
+    4300028: Line05_inst_2_0
+    4300030: Line05_inst_3_0
+    4300032: Line05_inst_4_0
+    4300034: WRectangl0_7
+    4300036: WRectangle_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
